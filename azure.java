@@ -12,6 +12,9 @@ class GFG {
 		// Number of chocolates given to each student of a 
 		// particular class 
 		int numChoc[] = new int[5]; 
+				// Number of chocolates given to each student of a 
+		// particular class 
+		int numChoc[] = new int[5]; 
 		try { 
 			for (int i = 0; i < 5; i++) { 
 				// Calculating the chocolates 
